@@ -2,7 +2,6 @@
 # Hi, I'm ArduRadiokot, a software developer 
 
 ## Skills
-----------
 
 * Programming languages: `JavaScript`, `Python`, `C`, `C++`
 * Operating Systems: `Windows`, `macOS`

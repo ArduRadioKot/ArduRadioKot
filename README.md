@@ -17,5 +17,5 @@
 --------------
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArduRadioKot&layout=compact)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArduRadioKot&show_icons=true&theme=radical)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArduRadioKot&layout=compact&cache=0)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArduRadioKot&show_icons=true&theme=radical)
 ### Thanks for visiting my profile! If you have any questions or want to collaborate on a project, feel free to reach out.

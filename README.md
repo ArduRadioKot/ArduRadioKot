@@ -1,5 +1,5 @@
 
-# Hi, I'm ArduRdiokot, a software developer 
+# Hi, I'm ArduRadiokot, a software developer 
 
 ## Skills
 ----------
@@ -19,14 +19,9 @@
 ## Statistics
 --------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/ArduRadioKot)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArduRadioKot&layout=compact)](https://github.com/ArduRadioKot)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)](https://github.com/ArduRadioKot)
-
-## Contact Me
---------------
-
-* Email: [your-email@example.com](mailto:your-email@example.com)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArduRadioKot&show_icons=true)](https://github.com/ArduRadioKot)
 
 ## Footer
 ==========

@@ -1,12 +1,6 @@
-# Hш
-================
 
-[![Your Name](https://github.com/your-username.png?size=100)](https://github.com/ArduRadioKot)
+# Hi, I'm ArduRdiokot, a software developer 
 
-## About Me
-------------
-
-Hi, I'm ArduRdiokot, a software developer 
 ## Skills
 ----------
 

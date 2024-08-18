@@ -4,21 +4,19 @@
 ## Skills
 ----------
 
-* Programming languages: `JavaScript`, `Python`, `Java`
-* Development frameworks: `React`, `Angular`, `Vue.js`
-* Databases: `MySQL`, `MongoDB`, `PostgreSQL`
-* Operating Systems: `Windows`, `Linux`, `macOS`
+* Programming languages: `JavaScript`, `Python`, `C`, `C++`
+* Operating Systems: `Windows`, `macOS`
 
 ## Projects
 ------------
 
-* [**Project 1**](https://github.com/your-username/project-1): A brief description of the project
-* [**Project 2**](https://github.com/your-username/project-2): Another brief description of the project
-* [**Project 3**](https://github.com/your-username/project-3): Yet another brief description of the project
+* [**ForgeeCodeIDE**](https://github.com/ArduRadioKot/ForgeeCodeIDE): A code editor
+* [**FrogeeEngine**](https://github.com/ArduRadioKot/ForgeeEngine): Block Game Engine for CH32V003 Portable Game Console
+* [**Temperature sensor**](https://github.com/ArduRadioKot/Temperature-sensor): Electronic temperature sensor with wifi
 
 ## Statistics
 --------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArduRadioKot&layout=compact)](https://github.com/ArduRadioKot) [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArduRadioKot&show_icons=true)](https://github.com/ArduRadioKot)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArduRadioKot&layout=compact)](https://github.com/ArduRadioKot)     [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArduRadioKot&show_icons=true)](https://github.com/ArduRadioKot)
 
 ### Thanks for visiting my profile! If you have any questions or want to collaborate on a project, feel free to reach out.

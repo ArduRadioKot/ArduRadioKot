@@ -1,13 +1,12 @@
-# Header
+# Hш
 ================
 
-[![Your Name](https://github.com/your-username.png?size=100)](https://github.com/your-username)
+[![Your Name](https://github.com/your-username.png?size=100)](https://github.com/ArduRadioKot)
 
 ## About Me
 ------------
 
-Hi, I'm **Your Name**, a passionate software developer with a love for building innovative solutions. I'm currently working on [project/repo name] and exploring new technologies to improve my skills.
-
+Hi, I'm ArduRdiokot, a software developer 
 ## Skills
 ----------
 
@@ -26,16 +25,14 @@ Hi, I'm **Your Name**, a passionate software developer with a love for building 
 ## Statistics
 --------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/your-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/ArduRadioKot)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)](https://github.com/your-username)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)](https://github.com/ArduRadioKot)
 
 ## Contact Me
 --------------
 
 * Email: [your-email@example.com](mailto:your-email@example.com)
-* LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-* Twitter: [twitter.com/your-username](https://twitter.com/your-username)
 
 ## Footer
 ==========

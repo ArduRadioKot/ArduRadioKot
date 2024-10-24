@@ -1,5 +1,5 @@
 
-# Hi, I'm ArduRadiokot, a software developer 
+# Hi, I'm ArduRadiokot, a  developer 
 
 ## Skills
 

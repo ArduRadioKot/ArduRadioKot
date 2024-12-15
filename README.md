@@ -3,7 +3,7 @@
 
 ## Skills
 
-* Programming languages: `JavaScript`, `Python`, `C`, `C++`
+* Programming languages: `C`, `C++`, `Python`, `JavaScript` 
 * Operating Systems: `Windows`, `macOS`
 
 ## Projects

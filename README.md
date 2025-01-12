@@ -20,7 +20,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arduradiokot&show_icons=true&theme=dark&locale=en" alt="arduradiokot" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arduradiokot&show_icons=true&theme=dark&locale=en&layout=compact" alt="arduradiokot" /></p>  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arduradiokot&theme=dark" alt="arduradiokot" /></p>
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arduradiokot&theme=dark"></p>
+
+### GitHub Streak Stats 🔥
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arduradiokot&theme=dark)](https://git.io/streak-stats)
+
 ---
 ### Thanks for visiting my profile! If you have any questions or want to collaborate on a project, feel free to reach out.

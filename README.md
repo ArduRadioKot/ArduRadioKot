@@ -1,7 +1,7 @@
 
 # Hi, I'm ArduRadiokot, a  developer :computer: 
 ---
-![trophy](https://github-profile-trophy.vercel.app/?username=arduradiokot)]
+![trophy](https://github-profile-trophy.vercel.app/?username=arduradiokot)
 
 * Programming languages:  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white), ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white), ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white), ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 * Operating Systems:  ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0), ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -16,7 +16,11 @@
 
 ## Statistics
 --------------
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arduradiokot&theme=dark)
 
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArduRadioKot&layout=compact)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArduRadioKot&show_icons=true&theme=radical/cache=0)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arduradiokot&show_icons=true&theme=dark&locale=en" alt="arduradiokot" /></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arduradiokot&show_icons=true&theme=dark&locale=en&layout=compact" alt="arduradiokot" /></p>  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arduradiokot&theme=dark" alt="arduradiokot" /></p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arduradiokot&theme=dark)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arduradiokot&theme=dark" alt="arduradiokot" /></p>
 ### Thanks for visiting my profile! If you have any questions or want to collaborate on a project, feel free to reach out.

@@ -3,7 +3,11 @@
 ---
 ![trophy](https://github-profile-trophy.vercel.app/?username=arduradiokot)
 
-* 🖥️  See my portfolio at [coming soon](http://vvvvv) * ✉️  You can contact me at [frogeesoft.team@gmail.com](mailto:frogeesoft.team@gmail.com) * 🧠  I'm learning new technologies * 🤝  I'm open to collaborating on interesting projects * ⚡  I like good design
+* 🖥️  See my portfolio at [coming soon](http://vvvvv)
+* ✉️  You can contact me at [frogeesoft.team@gmail.com](mailto:frogeesoft.team@gmail.com)
+* 🧠  I'm learning new technologies
+* 🤝  I'm open to collaborating on interesting projects
+* ⚡  I like good design
 
 <p><a href="https://www.github.com/ArduRadioKot" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ArduRadioKot?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <img src="https://komarev.com/ghpvc/?username=arduradiokot&label=Profile%20views&color=0e75b6&style=flat"></p>

@@ -35,7 +35,7 @@
 
 ### GitHub Streak Stats 🔥
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ArduRadioKot)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arduradiokot)](https://git.io/streak-stats)
 
 ### Support Me
 

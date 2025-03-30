@@ -3,7 +3,7 @@
 ---
 ![trophy](https://github-profile-trophy.vercel.app/?username=arduradiokot)
 
-* 🖥️  See my portfolio at [coming soon](http://vvvvv)
+* 🖥️  See my portfolio at [my website](https://x200l.github.io/SITeducation/index.html)
 * ✉️  You can contact me at [frogeesoft.team@gmail.com](mailto:frogeesoft.team@gmail.com)
 * 🧠  I'm learning new technologies
 * 🤝  I'm open to collaborating on interesting projects

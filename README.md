@@ -32,7 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arduradiokot&show_icons=true&theme=dark&locale=en" alt="arduradiokot" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arduradiokot&show_icons=true&theme=dark&locale=en&layout=compact" alt="arduradiokot" /></p>  
 
-### GitHub Streak Stats 🔥
+###  GitHub Streak Stats 🔥
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=arduradiokot&theme=dark" alt="GitHub Streak" /></a>
 

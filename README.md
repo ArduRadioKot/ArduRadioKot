@@ -29,9 +29,8 @@
 --------------
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arduradiokot&theme=dark)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arduradiokot&show_icons=true&theme=dark&locale=en" alt="arduradiokot" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arduradiokot&show_icons=true&theme=dark&locale=en&layout=compact" alt="arduradiokot" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=arduradiokot&show_icons=true&theme=dark&locale=en&cache_seconds=1800&include_all_commits=true" alt="arduradiokot" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arduradiokot&show_icons=true&theme=dark&locale=en&layout=compact&cache_seconds=1800" alt="arduradiokot" />
 <br>
 <h3>GitHub Streak Stats 🔥</h3>
 

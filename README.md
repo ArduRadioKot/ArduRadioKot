@@ -21,9 +21,9 @@
 ## Projects
 ------------
 
-* [**ForgeeCodeIDE**](https://github.com/ArduRadioKot/ForgeeCodeIDE): A code editor
+* [**ForgeeCodeIDE**](https://github.com/ArduRadioKot/ForgeeCodeIDE): Light and powerful code redactor for FrogeeSoft projects
 * [**FrogeeEngine**](https://github.com/ArduRadioKot/ForgeeEngine): Block Game Engine for CH32V003 Portable Game Console
-* [**Temperature sensor**](https://github.com/ArduRadioKot/Temperature-sensor): Electronic temperature sensor with wifi
+* [**FrogeeCore**](https://github.com/ArduRadioKot/FrogeeCore): FrogeeCore is a platform for developing projects and Iot devices
 
 ## Statistics
 --------------
@@ -31,7 +31,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=arduradiokot&show_icons=true&theme=dark&locale=en&cache_seconds=1800&include_all_commits=true" alt="arduradiokot" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arduradiokot&show_icons=true&theme=dark&locale=en&layout=compact&cache_seconds=1800" alt="arduradiokot"/>
-<br>
+</br>
 <h3>GitHub Streak Stats 🔥</h3>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=arduradiokot&theme=dark" alt="GitHub Streak" /></a>

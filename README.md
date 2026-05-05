@@ -1,4 +1,4 @@
-# Hi, I'm ArduRadiokot 👨‍💻
+# Hi, I'm ArduRadiokot, a developer 
 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 🖥️ Portfolio: [My Website](https://x200l.github.io/SITeducation/index.html)  
 - ✉️ Contact: [frogeesoft.team@gmail.com](mailto:frogeesoft.team@gmail.com)  
@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 Skills
+## Skills
 
 <p>
   <a href="https://docs.microsoft.com/en-us/cpp/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" /></a>
@@ -56,13 +56,13 @@
 
 ## 📦 Projects
 
-- 🔹 [**ForgeeCodeIDE**](https://github.com/ArduRadioKot/ForgeeCodeIDE) — Lightweight code editor for FrogeeSoft  
-- 🔹 [**FrogeeEngine**](https://github.com/ArduRadioKot/FrogeeEngine) — Game engine for CH32V003 portable console  
-- 🔹 [**FrogeeCore**](https://github.com/ArduRadioKot/FrogeeCore) — Platform for IoT & embedded development  
+- [**ForgeeCodeIDE**](https://github.com/ArduRadioKot/ForgeeCodeIDE) — Lightweight code editor for FrogeeSoft  
+- [**FrogeeEngine**](https://github.com/ArduRadioKot/FrogeeEngine) — Game engine for CH32V003 portable console  
+- [**FrogeeCore**](https://github.com/ArduRadioKot/FrogeeCore) — Platform for IoT & embedded development  
 
 ---
 
-## 📊 Statistics
+## Statistics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arduradiokot&theme=dark" />
@@ -86,7 +86,7 @@
 
 ---
 
-## ☕ Support Me
+## Support Me
 
 <p align="center">
   <a href="https://www.ko-fi.com/froggyteam">

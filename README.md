@@ -10,7 +10,7 @@
 
 ## About Me
 
-- 🖥️ Portfolio: [My Website](https://x200l.github.io/SITeducation/index.html)  
+- 🖥️ Portfolio: [My Website](alex-fgdev.ru)  
 - ✉️ Contact: [frogeesoft.team@gmail.com](mailto:frogeesoft.team@gmail.com)  
 - 🧠 Currently learning new technologies  
 - 🤝 Open to collaboration  
